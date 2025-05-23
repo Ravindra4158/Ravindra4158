@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning c language 
 - 💞️ I’m looking to collaborate on find some errors 
-- 📫 contact me @ravindrachoufhary1237@gamil.com
+- 📫 contact me @u41996
+  37@gamil.com
 - 😄 Pronouns: he/him
 - 
 
