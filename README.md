@@ -160,12 +160,12 @@ goal: "Build impactful products and keep learning every day 🎯"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Ravindra4158&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ravindra4158&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="98%" src="https://streak-stats.demolab.com/?user=Ravindra4158&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=6c63ff&ring=6c63ff&fire=ff6b6b&currStreakLabel=6c63ff" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ravindra4158&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Ravindra4158&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=commits&custom_title=GitHub%20Overview" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ravindra4158&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
 ---
@@ -174,10 +174,10 @@ goal: "Build impactful products and keep learning every day 🎯"
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total%20Commits-1710+-6c63ff?style=for-the-badge&logo=git&logoColor=white)
-![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-blue?style=for-the-badge&logo=github&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-success?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-orange?style=for-the-badge&logo=rocket&logoColor=white)
+![Contributions](https://img.shields.io/badge/Total%20Contributions-1710+-6c63ff?style=for-the-badge&logo=github&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-3%2B%20Years%20Coding-success?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Full%20Stack%20%26%20AI-orange?style=for-the-badge&logo=stackshare&logoColor=white)
+![Since](https://img.shields.io/badge/On%20GitHub%20Since-2024-blue?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
