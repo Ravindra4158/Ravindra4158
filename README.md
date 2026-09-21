@@ -160,8 +160,8 @@ goal: "Build impactful products and keep learning every day 🎯"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravindra4158&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindra4158&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Ravindra4158&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ravindra4158&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
 <div align="center">
@@ -173,7 +173,7 @@ goal: "Build impactful products and keep learning every day 🎯"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravindra4158&theme=onestar&no-frame=true&margin-w=6&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravindra4158&theme=darkhub&no-frame=true&margin-w=8&column=4" />
 </div>
 
 ---
@@ -181,7 +181,7 @@ goal: "Build impactful products and keep learning every day 🎯"
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindra4158&theme=tokyo-night&hide_border=true&area=true&custom_title=Ravindra's%20Contribution%20Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindra4158&bg_color=1a1b27&color=628fdb&line=628fdb&point=ba91f5&area=true&hide_border=true" />
 </div>
 
 ---
