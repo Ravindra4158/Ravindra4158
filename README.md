@@ -170,18 +170,15 @@ goal: "Build impactful products and keep learning every day 🎯"
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravindra4158&theme=tokyonight&no-frame=true&margin-w=8&column=6" />
-</div>
 
----
+![Commits](https://img.shields.io/badge/Total%20Commits-1710+-6c63ff?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-blue?style=for-the-badge&logo=github&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-success?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-orange?style=for-the-badge&logo=rocket&logoColor=white)
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindra4158&bg_color=1a1b27&color=628fdb&line=628fdb&point=ba91f5&area=true&hide_border=true" />
 </div>
 
 ---
