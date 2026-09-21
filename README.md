@@ -160,12 +160,12 @@ goal: "Build impactful products and keep learning every day 🎯"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ravindra4158&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Ravindra4158&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravindra4158&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindra4158&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindra4158&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=Ravindra4158&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
@@ -173,7 +173,7 @@ goal: "Build impactful products and keep learning every day 🎯"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravindra4158&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravindra4158&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
@@ -181,15 +181,7 @@ goal: "Build impactful products and keep learning every day 🎯"
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindra4158&bg_color=0d1117&color=70a5fd&line=bf91f3&point=70a5fd&area_color=1a1b27&area=true&hide_border=true&custom_title=Ravindra's%20Contribution%20Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ravindra4158/Ravindra4158/output/github-contribution-grid-snake-dark.svg" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindra4158&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
